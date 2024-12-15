@@ -9,3 +9,10 @@ h1 {
 .page-background {
     background-color: #F0BC42;
 }
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: #8E1F2F;
+}
